@@ -79,7 +79,7 @@ Step 9: Print the swapped value of c and d
 Step 10: Stop the Program.
 
 Program:
-#include &lt;stdio.h&gt;
+#include &lt;stdio.h&gt
 void main()
 {
 int a,b,x;
